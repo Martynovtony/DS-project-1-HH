@@ -46,7 +46,7 @@
 ## Установка проекта
 
 ```
-git clone https://github.com/Martynovtony/DS-project-1-HH-
+git clone https://github.com/Martynovtony/DS-project-1-HH
 ```
 
 ## Использование
